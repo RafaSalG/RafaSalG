@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Rafa
 
-💻 Desarrollador **Full Stack** con experiencia en **HTML**, **CSS**, **JavaScript** y **Python**. 
+💻 Desarrollador **Full Stack** con experiencia en **HTML**, **CSS**, **JavaScript**, **React**, **Flask**, **Python** y **PostgreSQL**. 
 Apasionado por el **aprendizaje continuo**, la **resolución de problemas** y el **trabajo en equipo**, siempre buscando mejorar tanto en lo técnico como en lo humano.  
 
 🌍 Actualmente ubicado en **Sevilla, España**.
@@ -25,7 +25,6 @@ Apasionado por el **aprendizaje continuo**, la **resolución de problemas** y el
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/-API-00ADEF?style=flat-square&logo=api&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/-RESTful_API-009999?style=flat-square&logo=rest&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="30">
 
 ### 🔧 Herramientas
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30">
