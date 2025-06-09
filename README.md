@@ -37,7 +37,8 @@ Apasionado por el **aprendizaje continuo**, la **resolución de problemas** y el
 
 ## 🛠️ Proyectos Destacados
 
-- 🎵 **SoundCript(https://github.com/RafaSalG/SoundCript)**  
+- 🎵 **SoundCript(https://github.com/RafaSalG/SoundCript)**
+  
   Red social para artistas musicales independientes, donde artistas pueden compartir su música, fotos y vídeos,
   y usuarios no artistas pueden seguir a diferentes artistas y guardar su música favorita y artistas favoritos.
 
