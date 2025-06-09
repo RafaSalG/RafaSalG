@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Rafa
+# 👋 ¡Hola, soy Rafa!
 
-💻 Desarrollador **Full Stack** con experiencia en **HTML**, **CSS**, **JavaScript**, **React**, **Flask**, **Python** y **PostgreSQL**. 
+💻 Desarrollador **Full Stack** con experiencia tanto en **front-end** como **back-end**. 
 Apasionado por el **aprendizaje continuo**, la **resolución de problemas** y el **trabajo en equipo**, siempre buscando mejorar tanto en lo técnico como en lo humano.  
 
 🌍 Actualmente ubicado en **Sevilla, España**.
